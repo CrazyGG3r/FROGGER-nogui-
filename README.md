@@ -10,5 +10,5 @@ Made by-
 
 shaheer ul islam <br>
 
-![imagenotfoundlul]("./Readme%20assets/amazing-remove-bg-preview.png")
+![imagenotfoundlul](./Readme%20assets/amazing-remove-bg-preview.png)
 
