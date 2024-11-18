@@ -1,4 +1,6 @@
-# FROGGER- STUCK IN TIME
+# FROGGER- STUCK IN TIME 
+<img src="./Readme%20assets/amazing-remove-bg-preview.png" alt="Alt text" width="200">
+
 Frogger remake for CLI using C only
 Made Using C and has 3000 lines
 
@@ -10,5 +12,4 @@ Made by-
 
 shaheer ul islam <br>
 
-![imagenotfoundlul](./Readme%20assets/amazing-remove-bg-preview.png)
 
